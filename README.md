@@ -11,7 +11,7 @@ I hunt vulnerabilities in production systems before threat actors find them — 
 - 🔒 **Active security research** — responsible disclosure including critical findings in government infrastructure
 - 🏢 **Running [Qodex](https://www.qodex.co.za)** — secure web solutions for SA businesses
 - 🛡️ **Head of Cyber Security** at Quota Libex
-- 🎓 **BSc Computer Science & IT** — Richfield (graduating 2026)
+- 🎓 **BSc Computer Science & IT** — Richfield (graduated 2026)
 
 ---
 
